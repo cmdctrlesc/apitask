@@ -13,7 +13,7 @@ def shopify_api(request):
 
     url = 'https://upsquaresandbox.myshopify.com/api/graphql'
     json = {'query': query}
-    access_token = "63038249cf69ddd165f7cd6657d50bc0"
+    access_token = "your token here"
     headers = {
         "Content-Type": "application/json",
         "X-Shopify-Storefront-Access-Token": access_token
