@@ -1,1 +1,1 @@
-REST proxy for GraphQL API interview task.
+REST proxy for GraphQL API in Django - interview task.
